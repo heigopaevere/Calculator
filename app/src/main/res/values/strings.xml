@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="kaks">Sisesta siia kaks numbrit</string>
+    <string name="tulemus">tulemus</string>
+</resources>
